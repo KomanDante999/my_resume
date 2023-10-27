@@ -4,4 +4,4 @@ i это мое резюме
 _жирный_
 __жирный2__
 ___жирный3___
-[PHOTO]{https://komandante999.github.io/PHOTO/}
+[PHOTO](https://komandante999.github.io/PHOTO/"progject")
