@@ -51,9 +51,9 @@
 
 ### hard skills:
 
-| HTML | CSS3 | JS ES6+ | VUE 3 | GSAP | Tailwind CSS |
-| ---- | ---- | ------- | ----- | ---- | ------------ |
-| Git  | Gulp | Sass    | Less  | Pug  | BEM          |
+| HTML | CSS3 | JS ES6+ | VUE 3 | GSAP | Tailwind CSS | WordPress |
+| ---- | ---- | ------- | ----- | ---- | ------------ | --------- |
+| Git  | Gulp | Sass    | Less  | Pug  | BEM          |           |
 
 ### soft skills:
 
