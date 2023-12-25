@@ -82,6 +82,20 @@
 - Использование **_canvas_** для создания эффекта дождя.
 ---
 
+### **_CREATIVE SCROLL (HTML, CSS, GSAP)_**
+
+> Красивый сайт-портфолио с паралакс-эффектом, плавным скроллом, анимацией карточек при прокрутке, реализованных библиотекой GreenSock.
+
+<a href="https://komandante999.github.io/wd-creative-scroll/"><img src="img/creative-scroll.jpg"></a>
+
+[Посмотреть код в репозитории](https://github.com/KomanDante999/wd-creative-scroll.git "перейти на  Github")
+
+### Технологии:
+- Использование **_ScrollSmoother_** для управления плавной прокруткой сайта.
+- Использование **_ScrollSmoother_** для задания различной скорости прокрутки различных элементов сайта.
+- Использование **_ScrollTrigger_** для управления анимацией элементов в зависимости от их появления на экране.
+---
+
 ### **_BLANCHARD - художественная галерея (HTML, CSS)_**
 
 > Адаптивная веб-страница с подключением плагинов swiper.js, jQuery accordion, tab, choices, popper, tippy, just-validate, inputmask, yandex-map.
@@ -103,7 +117,7 @@
 - Флексбокс-вёрстка, без использования фреймворков.
 ---
 
-### **_PHOTO - портфолио (GreenSock)_**
+### **_PHOTO - портфолио (HTML, CSS, GSAP)_**
 > Сайт-визитка с анимацией при загрузке сайта и открытия бургерного меню.
 
 <a href="https://komandante999.github.io/PHOTO/"><img src="img/Photo.jpg"></a>
